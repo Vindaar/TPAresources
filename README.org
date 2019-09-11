@@ -1,0 +1,15 @@
+* TPAresources
+
+A simple repo to store some data files (all ASCII), which are deemed
+too large to be part of the main [[https://github.com/Vindaar/TimepixAnalysis][TimepixAnalysis]] repository. 
+
+We could git-lfs in theory, but these files aren't necessarily large
+in total size, but simply contain a huge number of lines. I'd rather
+keep that out of the main repo.
+
+On the other hand regarding git-lfs, for our real data needs the
+support on GitHub for LFS files sizes is not large enough, since we'd
+have to store:
+- 250 GB of raw data
+- HDF5 files of O(30 GB) 
+which both are out of scope. 
