@@ -1,0 +1,97 @@
+## [General]
+## runNumber:        240
+## runTime:       	 0
+## runTimeFrames: 	 1
+## pathName:         data/runs/Run_240_181021-14-54
+## dateTime:         2018-10-21.14:58:37
+## numChips:         7
+## shutterTime:      30
+## shutterMode:      verylong
+## runMode:          0
+## fastClock:        0
+## externalTrigger:  0
+## [Event]
+## eventNumber:      115
+## useHvFadc:    	 1
+## fadcReadout:    	 0
+## szint1ClockInt:	 0
+## szint2ClockInt:	 0
+## fadcTriggerClock: -1
+# chipNumber: 0
+# chipName:   E 6 W69
+# numHits:    0
+# chipNumber: 1
+# chipName:   K 6 W69
+# numHits:    0
+# chipNumber: 2
+# chipName:   H 9 W69
+# numHits:    0
+# chipNumber: 3
+# chipName:   H 10 W69
+# numHits:    0
+# chipNumber: 4
+# chipName:   G 10 W69
+# numHits:    0
+# chipNumber: 5
+# chipName:   D 9 W69
+# numHits:    0
+# chipNumber: 6
+# chipName:   L 8 W69
+# numHits:    57
+166	233	11810
+234	203	11810
+241	153	29
+241	152	26
+241	151	45
+243	151	23
+242	150	15
+241	149	14
+243	149	92
+244	149	43
+239	148	50
+239	147	51
+240	147	22
+153	59	29
+173	57	43
+234	57	49
+152	55	22
+229	54	27
+164	53	22
+150	52	43
+154	52	17
+158	52	52
+162	52	19
+235	52	15
+166	51	24
+236	51	6
+238	51	2
+194	50	31
+157	49	38
+158	49	28
+181	49	51
+161	48	87
+168	48	15
+239	48	30
+103	47	32
+157	47	18
+158	47	29
+163	47	31
+125	46	67
+151	46	27
+180	46	23
+156	45	81
+174	45	8
+234	45	17
+95	44	32
+151	44	22
+105	43	31
+156	43	32
+157	43	36
+163	43	53
+128	42	27
+85	41	45
+93	41	35
+103	40	6
+159	35	73
+224	35	7
+218	32	49
