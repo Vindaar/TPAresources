@@ -1,0 +1,12 @@
+* Explanation of runs
+
+Run 240 is a background run from 2018_2:
+| 240 | rtBackground | rfNewTos | <2018-10-21 Sun 14:54> | <2018-10-22 Mon 16:15> | 1 days 01:21 |   | 38753 | 4203 | y |   |
+which didn't have a magnetic field (yeah, that run):
+| 240 | d |   |   |   | 1 |   | no B field! |
+
+
+whereas Run 241 is the calibration run next day:
+| 241 | rtCalibration | rfNewTos | <2018-10-22 Mon 16:16> | <2018-10-22 Mon 18:16> | 0 days 02:00 |   | 9480 | 9426 | y |   |
+
+Both have been reduced to the first 1000 events.
