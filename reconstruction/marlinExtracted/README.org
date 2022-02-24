@@ -1,0 +1,25 @@
+* Data origin
+
+The data stored in this directory is based on the
+
+=TimepixAnalysis/resources/background_splitted.2014+2015.h5=
+
+data file (which itself was converted from the ROOT tree with the same
+name). Note: this file is not hosted anywhere publicly at this time,
+as it's too big to do so easily. Ping me somewhere with my nick
+@Vindaar (Github, Twitter, Matrix, ...) or shoot a mail if you want
+access to the file.
+
+Using that as an input the small tool:
+
+=TimepixAnalysis/Tools/extractEventsFromMarlinH5.nim=
+(on Github:
+https://github.com/Vindaar/TimepixAnalysis/blob/master/Tools/extractEventsFromMarlinH5.nim
+)
+
+If changes to the data structure of TPA is done, rerun the tool to
+regenerate the data instead of modifying the JSON files manually!
+
+** TODO Make the Marlin background file available
+
+As per title.
