@@ -1837,7 +1837,8 @@
           "width": 4.146150588989258,
           "fractionInTransverseRms": 0.3498622477054596,
           "lengthDivRmsTrans": 7.332107022079179
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -2215,7 +2216,8 @@
           "width": 3.039735317230225,
           "fractionInTransverseRms": 0.05633802711963654,
           "lengthDivRmsTrans": 15.95078686054059
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 55827,
@@ -3334,7 +3336,8 @@
           "width": 13.16585159301758,
           "fractionInTransverseRms": 0.1880733966827393,
           "lengthDivRmsTrans": 4.321152512647504
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 38624,
@@ -4833,7 +4836,8 @@
           "width": 8.581064224243164,
           "fractionInTransverseRms": 0.4965986311435699,
           "lengthDivRmsTrans": 8.921577997877568
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -5116,7 +5120,8 @@
           "width": 4.195662498474121,
           "fractionInTransverseRms": 0.1538461595773697,
           "lengthDivRmsTrans": 5.896490869155664
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -5184,7 +5189,8 @@
           "width": 0.228631004691124,
           "fractionInTransverseRms": 0.0,
           "lengthDivRmsTrans": 46.4826708689192
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 34270,
@@ -6213,7 +6219,8 @@
           "width": 7.670246601104736,
           "fractionInTransverseRms": 0.2199999988079071,
           "lengthDivRmsTrans": 5.302985700174434
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 28532,
@@ -7367,7 +7374,8 @@
           "width": 6.426563262939453,
           "fractionInTransverseRms": 0.3555555641651154,
           "lengthDivRmsTrans": 7.646047176467832
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 31172,
@@ -8851,7 +8859,8 @@
           "width": 5.5257568359375,
           "fractionInTransverseRms": 0.3436426222324371,
           "lengthDivRmsTrans": 9.039963278076851
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 38216,
@@ -10660,7 +10669,8 @@
           "width": 11.04461860656738,
           "fractionInTransverseRms": 0.09550561755895615,
           "lengthDivRmsTrans": 5.184262775216581
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 46534,
@@ -12189,7 +12199,8 @@
           "width": 8.968832015991211,
           "fractionInTransverseRms": 0.223333328962326,
           "lengthDivRmsTrans": 5.93974925643458
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 31735,
@@ -13668,7 +13679,8 @@
           "width": 4.310326099395752,
           "fractionInTransverseRms": 0.2965517342090607,
           "lengthDivRmsTrans": 6.476677424011602
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 8603,
@@ -14847,7 +14859,8 @@
           "width": 10.12450122833252,
           "fractionInTransverseRms": 0.2956521809101105,
           "lengthDivRmsTrans": 6.846031691284021
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 41367,
@@ -16191,7 +16204,8 @@
           "width": 2.29488205909729,
           "fractionInTransverseRms": 0.2395437210798264,
           "lengthDivRmsTrans": 7.391468471027276
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -17824,7 +17838,8 @@
           "width": 5.161598205566406,
           "fractionInTransverseRms": 0.2267080694437027,
           "lengthDivRmsTrans": 12.91596010022995
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 19898,
@@ -19708,7 +19723,8 @@
           "width": 4.700393676757812,
           "fractionInTransverseRms": 0.2776280343532562,
           "lengthDivRmsTrans": 8.43978987777961
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -19746,7 +19762,8 @@
           "width": 0.3556695282459259,
           "fractionInTransverseRms": 0.0,
           "lengthDivRmsTrans": 31.21506007361968
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 31261,
@@ -21110,7 +21127,8 @@
           "width": 6.57951831817627,
           "fractionInTransverseRms": 0.3333333432674408,
           "lengthDivRmsTrans": 6.924044424481986
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 65143,
@@ -22204,7 +22222,8 @@
           "width": 5.371743202209473,
           "fractionInTransverseRms": 0.2910798192024231,
           "lengthDivRmsTrans": 6.88993435811427
-        }
+        },
+        "version": "Timepix1"
       },
       {
         "data": [
@@ -22697,7 +22716,8 @@
           "width": 4.201898097991943,
           "fractionInTransverseRms": 0.2340425550937653,
           "lengthDivRmsTrans": 6.344485124931303
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 44781,
@@ -23856,7 +23876,8 @@
           "width": 14.00753211975098,
           "fractionInTransverseRms": 0.3008849620819092,
           "lengthDivRmsTrans": 5.504199309925076
-        }
+        },
+        "version": "Timepix1"
       }
     ],
     "event_number": 63681,
