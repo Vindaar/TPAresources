@@ -20,6 +20,14 @@ https://github.com/Vindaar/TimepixAnalysis/blob/master/Tools/extractEventsFromMa
 If changes to the data structure of TPA is done, rerun the tool to
 regenerate the data instead of modifying the JSON files manually!
 
+*NOTE*: When using the above tool to re-generate the data stored here,
+the important things are:
+- the events are selected based on random sampling using the seed
+  =299792458=
+- the random seeding in Nim's stdlib =random= library changed between
+  version 1.4 and 1.6. To regenerate the same events, compile the
+  tool with =-d:nimLegacyRandomInitRand=!  
+
 ** TODO Make the Marlin background file available
 
 As per title.
